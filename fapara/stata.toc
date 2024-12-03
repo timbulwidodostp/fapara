@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p fapara Parallel analysis for pca and factor analysis Use fapara With STATA 18
