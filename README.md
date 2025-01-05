@@ -1,6 +1,8 @@
 # fapara
 Parallel analysis for pca and factor analysis Use fapara With STATA 18
 
+https://www.youtube.com/watch?v=PY3rqSFuMvk
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
